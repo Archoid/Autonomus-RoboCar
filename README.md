@@ -2,7 +2,7 @@
 
 #### 1. Objective
 #### 2. Components Used 
-#### 3. Procedure
+#### 3. Software Used
 
 
 ## 1. Objective
